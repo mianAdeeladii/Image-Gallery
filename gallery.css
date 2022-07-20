@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+.gallery{
+    background-color:#dbddf1 ;
+    padding: 88px 0;
+}
+.images{
+    max-width: 100%;
+    width: 300px;
+    height: 300px;
+}
+.gallery img{
+    background-color: #ffff;
+   padding: 15px;
+   width: 100%;
+    margin-bottom: 10px;
+    
+}
+#gallery-modal .modal-img{
+width: 100%;
+}
+#popup-img{
+    border: 5px solid #ffff;
+}
